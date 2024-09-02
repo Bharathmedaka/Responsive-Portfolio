@@ -1,0 +1,122 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+#my_btn{
+    border-radius: 25px;
+    padding: 10px;
+    background-color: rgb(3, 49, 2);
+    
+}
+#header
+{   
+    /* margin-top: 70px; */
+    margin-top: 10px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height:100vh;
+    width: auto;
+}
+.image-sec
+{
+    width: 300px;
+    height: 300px; 
+    overflow: hidden;
+    border-radius: 100%;
+    margin-right: 40px;
+}  
+.image-sec img{
+    width: 100%;
+    height: auto;
+    object-fit: fill;
+}
+.introContent
+{
+    font-size: 3.5rem;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 40px;
+    
+}
+#hello
+{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+#introName
+{
+    color: rgb(9, 61, 7);
+}
+#intropara
+{
+  font-size: medium;
+  font-weight: 100;
+}
+Link
+{
+    border: 2px solid black;
+}
+
+@media screen and (max-width : 745px){
+    .introContent
+    {
+        font-size: 2rem;
+        margin: 20px;
+        margin-bottom: 70px;
+    }
+    .image-sec{
+        width: 230px;
+        height: 230px; 
+        margin: 0;
+    }
+}
+
+#intropara{
+    font-weight: bolder;
+}
+@media screen and (max-width : 330px){
+    #my_btn{
+        padding: 7px;
+    }
+    #hello{
+        font-size: 1.25rem;
+    }
+    #header{
+        flex-direction: column;
+        
+    }
+    .introContent{
+        font-size: 1.5rem;
+        margin-top: 110px;
+    }
+    .image-sec{
+        width: 200px;
+        height: 200px; 
+        margin: 0;
+        margin-top: 50px;
+    }
+    
+}
+#my_btn
+{
+    background-color:rgb(3, 49, 2);
+    padding: 10px;
+    border-radius: 25px;
+    font-weight: 450;
+}
+#my_btn:hover {
+    background-color: rgb(255, 255, 255); 
+    color: black; 
+    transition: background-color 0.3s ease, color 0.3s ease; 
+    border: 1px solid rgb(3, 49, 2);
+}

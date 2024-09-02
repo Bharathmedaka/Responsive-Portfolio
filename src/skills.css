@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#my_skills{
+    padding-top: 80px;
+    padding-bottom: 120px;
+}
+
+.skill_container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 30px;
+
+}
+
+.skill_box{
+    width: 450px;
+    border: 1px solid black;
+    border-radius: 30px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items:center;
+}
+.each_skill{
+    width: 180px;
+    height: auto;
+    margin: 10px;
+    /* border: 1px solid black; */
+    padding: 10px;
+}
+.myskill{
+    padding-left: 10px;
+}
+.level{
+    padding-left: 35px;
+}
+
+@media screen and (max-width : 335px)
+{
+    #my_skills
+    {
+        padding-top: 20px;
+        padding-bottom: 80px;
+    }
+    .each_skill
+    {
+        padding: 3px;
+    }
+}
+
+
