@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Bharathmedaka/Responsive-Portfolio/static/css/main.83002341.css",
+    "main.js": "/Bharathmedaka/Responsive-Portfolio/static/js/main.ea8630fb.js",
+    "static/js/453.e1a4b6e9.chunk.js": "/Bharathmedaka/Responsive-Portfolio/static/js/453.e1a4b6e9.chunk.js",
+    "static/media/passport_photo.jpg": "/Bharathmedaka/Responsive-Portfolio/static/media/passport_photo.17c97d46853d9a6d75dc.jpg",
+    "static/media/text.jpg": "/Bharathmedaka/Responsive-Portfolio/static/media/text.37ca0a1cf19037b50503.jpg",
+    "static/media/calc.jpg": "/Bharathmedaka/Responsive-Portfolio/static/media/calc.fa599ea47af6bae3221a.jpg",
+    "static/media/weather.jpg": "/Bharathmedaka/Responsive-Portfolio/static/media/weather.367491e6322affeeb234.jpg",
+    "static/media/todo.jpg": "/Bharathmedaka/Responsive-Portfolio/static/media/todo.ac81a27714fe3e7b9f93.jpg",
+    "index.html": "/Bharathmedaka/Responsive-Portfolio/index.html",
+    "main.83002341.css.map": "/Bharathmedaka/Responsive-Portfolio/static/css/main.83002341.css.map",
+    "main.ea8630fb.js.map": "/Bharathmedaka/Responsive-Portfolio/static/js/main.ea8630fb.js.map",
+    "453.e1a4b6e9.chunk.js.map": "/Bharathmedaka/Responsive-Portfolio/static/js/453.e1a4b6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83002341.css",
+    "static/js/main.ea8630fb.js"
+  ]
+}
