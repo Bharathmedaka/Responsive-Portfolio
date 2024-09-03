@@ -14,7 +14,7 @@ export default function Home() {
         <div className="introContent">
           <span id="hello">Hello,</span>
           <span className="introText">I'm <span id="introName">Bharath</span><br/>Web Developer</span>
-          <p id="intropara"><b><i>I am an undergraduate student pursuing B.Tech in Mechanical.</i></b></p>
+          <p id="intropara"><b><i>I'm passionate about coding and web development.</i></b></p>
           <div className="btns">
             <Link to="contact" smooth={true} duration={200}>
             <button className="btn btn-success" id='my_btn'>

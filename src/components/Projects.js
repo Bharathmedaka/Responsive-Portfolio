@@ -16,7 +16,7 @@ export default function Projects() {
           <div className='project_img'>
             <img src={weatherimg} alt=""/>
           </div>
-          <h4 className='app_nameweather'><b>Weather App</b></h4>
+          <h4 className='app_name'><b>Weather App</b></h4>
             <a href='https://bharathmedaka.github.io/Weather-App/'>
               <button type="button" className="btn btn-dark" id='probtn'><i className="fa-solid fa-display fa-lg" style={{ marginRight: "8px"}}></i>Show Demo</button>
             </a> 
@@ -25,7 +25,7 @@ export default function Projects() {
           <div className='project_img'>
             <img src={calcimg} alt=""/>
           </div>
-          <h4 className='app_namecal'><b>Calculator</b></h4>
+          <h4 className='app_name'><b>Calculator</b></h4>
             <a href='https://bharathmedaka.github.io/Calculator-App/'>
               <button type="button" className="btn btn-dark" id='probtn'><i className="fa-solid fa-display fa-lg" style={{ marginRight: "8px"}}></i>Show Demo</button>
             </a>
@@ -34,7 +34,7 @@ export default function Projects() {
           <div className='project_img'>
             <img src={todoimg} alt=""/>
           </div>
-          <h4 className='app_nametodo'><b>To-Do-List</b></h4>
+          <h4 className='app_name'><b>To-Do-List</b></h4>
             <a href='https://bharathmedaka.github.io/To-Do-List-App/'>
               <button type="button" className="btn btn-dark" id='probtn'><i className="fa-solid fa-display fa-lg" style={{ marginRight: "8px"}}></i>Show Demo</button>
             </a>
@@ -43,7 +43,7 @@ export default function Projects() {
           <div className='project_img'>
             <img src={textimg} alt=""/>
           </div>
-          <h4 className='app_nametext'><b>TextUtils App</b></h4>
+          <h4 className='app_name'><b>TextUtils App</b></h4>
             <a href='https://bharathmedaka.github.io/TextUtils-App/'>
               <button type="button" className="btn btn-dark" id='probtn'><i className="fa-solid fa-display fa-lg" style={{ marginRight: "8px"}}></i>Show Demo</button>
             </a>

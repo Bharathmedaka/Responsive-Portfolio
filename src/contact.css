@@ -5,7 +5,7 @@
 }
 #my_contact{
     padding-top: 80px;
-    padding-bottom: 120px;
+    /* padding-bottom: 120px; */
 }
 #contbtn
 {
@@ -40,6 +40,8 @@
     flex-wrap: wrap;
     padding: 10px;
     overflow: hidden;
+    /* width: 500px;
+    height: 450px; */
 
 }
 .input{
@@ -47,12 +49,14 @@
     padding: 10px;
     border-radius:30px;
     border-style: ridge;
+    
 }
 .textarea{
     width: 400px;
     border-radius:30px;
     padding: 10px;
     border-width: 2px;
+    
 }
 @media screen and (max-width : 450px){
     .input{
@@ -61,6 +65,7 @@
     .textarea{
         width: auto ;
     }
+
 
 
 }
@@ -100,7 +105,6 @@ footer h2{
         flex-wrap: wrap;
         align-items: center;
         padding-right: 25px;
-        
     }
 }
 @media screen and (max-width : 335px)

@@ -29,7 +29,9 @@ export default function About() {
               <p>I'm Bharath Kishore, a passionate web developer enthusiast
                 pursuing B.Tech in Mechanical Engineering.Proficient in Python
                 programming and good knowledge on frontend technologies and also
-                basic knowledge on SQL.
+                basic knowledge on SQL.I enjoy solving complex problems and am
+                always eager to take on new challenges that help me expand
+                my skill set.
               </p>
           </div>
         </div>
