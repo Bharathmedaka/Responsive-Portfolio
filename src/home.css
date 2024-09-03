@@ -14,7 +14,6 @@
 }
 #header
 {   
-    /* margin-top: 70px; */
     margin-top: 10px;
     overflow: hidden;
     display: flex;
@@ -116,9 +115,3 @@ Link
     border-radius: 25px;
     font-weight: 450;
 }
-/* #my_btn:hover {
-    background-color: rgb(255, 255, 255); 
-    color: black; 
-    transition: background-color 0.3s ease, color 0.3s ease; 
-    border: 1px solid rgb(3, 49, 2);
-} */

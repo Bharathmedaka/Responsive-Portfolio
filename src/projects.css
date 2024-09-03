@@ -16,13 +16,8 @@
     background-color: black; 
     color: white
     
-    /* transition: background-color 0.3s ease, color 0.3s ease;  */
 }
-/* #probtn:hover {
-    background-color: rgb(53, 52, 52); 
-    color: white; 
-   
-} */
+
 .project_container{
     display: flex;
     flex-wrap: wrap;
