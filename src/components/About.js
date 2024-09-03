@@ -22,7 +22,7 @@ export default function About() {
             <div className='box'>
               <i class="fa-solid fa-code fa-xl" style={{color: "#000000", margin: '20px'}}></i>
               <h4>Coding</h4>
-              <p>I am passionate about coding and solved 200 problems in leetcode  </p>
+              <p>Actively engaged in solving coding problems</p>
             </div>
           </div>
           <div className='content-sec'>
